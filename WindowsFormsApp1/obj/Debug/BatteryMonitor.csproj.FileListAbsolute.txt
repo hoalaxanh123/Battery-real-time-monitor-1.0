@@ -1,0 +1,8 @@
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Battery Monitor 1.0.exe
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Battery Monitor 1.0.pdb
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BatteryMonitor.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BatteryMonitor.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Battery Monitor 1.0.exe
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Battery Monitor 1.0.pdb
